@@ -1,0 +1,15 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card-bg {
+  background: rgb(0, 3, 19);
+  color: #fafafa;
+}
+
+.searchbar-bg {
+  background: rgb(7, 11, 31);
+  color: #fafafa;
+}
